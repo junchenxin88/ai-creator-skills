@@ -6,6 +6,7 @@
 |---|---|
 | [platform-playbooks](skills/platform-playbooks) | 抖音/公众号/头条/视频号/X 五平台执行清单 |
 | [content-scorecard](skills/content-scorecard) | 图文成品打分标准与一票否决项 |
+| [moneyprinterturbo](skills/moneyprinterturbo) | 【第三方】主题一键生成短视频（harry0703，MIT） |
 
 ## 安装
 ```bash
