@@ -15,7 +15,6 @@ cp -r ai-creator-skills/skills/* ~/.claude/skills/   # 全部安装，或只复�
 
 ## 关注作者
 - X：[@andyzhang123199](https://x.com/andyzhang123199)
-- 公众号：（名称待定）
 
 ## 许可
 （待定，建议 MIT）
