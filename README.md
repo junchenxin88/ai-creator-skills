@@ -17,4 +17,4 @@ cp -r ai-creator-skills/skills/* ~/.claude/skills/   # 全部安装，或只复�
 - X：[@andyzhang123199](https://x.com/andyzhang123199)
 
 ## 许可
-（待定，建议 MIT）
+MIT，见 [LICENSE](LICENSE)。
