@@ -7,6 +7,7 @@
 | [platform-playbooks](skills/platform-playbooks) | 抖音/公众号/头条/视频号/X 五平台执行清单 |
 | [content-scorecard](skills/content-scorecard) | 图文成品打分标准与一票否决项 |
 | [viral-title-hooks](skills/viral-title-hooks) | 爆款标题钩子：对标原句式套用，只换产品名与可核数字 |
+| [x-original-content-ops](skills/x-original-content-ops) | X 原创内容运营：Original Content Rewards 合规自查 + 涨曝光清单 |
 | [moneyprinterturbo](skills/moneyprinterturbo) | 【第三方·官方 Skill】主题一键生成短视频（harry0703，MIT） |
 | [scrapling](skills/scrapling) | 【第三方·官方 Skill】网页抓取/爬虫，自带 MCP（D4Vinci，BSD-3-Clause） |
 | [dsh-superagent](skills/dsh-superagent) | 【第三方·官方 Skill】DeepSeek 主动式 Coding Agent 原型的飞书/GitHub 读取 Skill（deepseek-ai，MIT，需配合原 bundle） |

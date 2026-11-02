@@ -11,7 +11,7 @@
 - [ ] 视频质量观看权重 `VqvWeight = 0.0`，不剪视频不吃亏（同上）
 - [ ] 少量粉阶段，曝光主要来自推荐给没关注你的人（Out-of-Network）→ **话题要稳定**（推理，见调研第 1 节）
 - [ ] 加密货币内容同样受负反馈规则约束：不喊单、不保证收益（经验做法，待复盘验证）
-- [ ] 变现：原创内容奖励（OCR）门槛是 ≥500 认证粉 + 90 天 50 万次认证用户曝光；**不能用自动化方式发帖**。https://www.livemint.com/money/personal-finance/elon-musks-x-replaces-revenue-sharing-programme-with-original-content-rewards-heres-how-you-can-make-money-11786201089670.html
+- [ ] 变现：跑技能 **x-original-content-ops**（官方 Original Content Rewards）。门槛常见为 ≥500 认证粉 + 近 90 天 50 万认证用户 **Home Timeline** 曝光（回复不计）；**禁止自动发帖、禁止反复求赞求转**。权威：https://help.x.com/en/using-x/original-content-rewards
 
 ## 二、爆款结构（对标真实案例）
 | 帖子 | 数据 | 结构 | 我们怎么套 |
