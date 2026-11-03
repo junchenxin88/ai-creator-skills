@@ -7,6 +7,7 @@
 | [platform-playbooks](skills/platform-playbooks) | 抖音/公众号/头条/视频号/X 五平台执行清单 |
 | [content-scorecard](skills/content-scorecard) | 图文成品打分标准与一票否决项 |
 | [viral-title-hooks](skills/viral-title-hooks) | 爆款标题钩子：对标原句式套用，只换产品名与可核数字 |
+| [flat-ui-design-system](skills/flat-ui-design-system) | 扁平 UI/图表/HTML 卡设计规范：模块选型、复杂度上限、CSS 变量、暗亮双模式 |
 | [x-original-content-ops](skills/x-original-content-ops) | X 原创内容运营：Original Content Rewards 合规自查 + 涨曝光清单 |
 | [moneyprinterturbo](skills/moneyprinterturbo) | 【第三方·官方 Skill】主题一键生成短视频（harry0703，MIT） |
 | [scrapling](skills/scrapling) | 【第三方·官方 Skill】网页抓取/爬虫，自带 MCP（D4Vinci，BSD-3-Clause） |
